@@ -160,8 +160,6 @@ Logs kamu normal jika `CurrentBlock:xxxx` nilainya bertambah. Error `beacon sync
 
 # Tutorial Menjalankan Propopser Taiko
 
-## Deploying Smart Contract
-
 > [!WARNING]
 > **Syarat Menjadi Proposer**
 > 1) Taiko node kamu sudah 100% synchronized
